@@ -7,3 +7,6 @@ Desarrollo de una aplicación de escritorio con JAVA para gestionar una concesio
 - JPA
 - Swing
 - Maven
+
+## Nota
+La consigna del ejercicio es propiedad de TodoCode (https://www.todocodeacademy.com)
